@@ -16,7 +16,7 @@ In the [website directory](website/) there are four files:
 
 To create the website stack.
 
-[<img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png">](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=myteststack&templateURL=https://s3-ap-southeast-2.amazonaws.com/empitecloudformationtemplates/main.yaml)
+[<img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png">](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=myteststack&templateURL=https://s3-ap-southeast-2.amazonaws.com/empitecloudformationtemplates/website.yaml)
 
 Once the stack is complete, we will need to keep track of the S3 bucket name and the URL for the website. 
 
